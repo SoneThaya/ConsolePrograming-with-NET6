@@ -5,25 +5,27 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "helloWorld", "helloWorld\helloWorld.csproj", "{4B6063B2-B555-418E-A27E-47A475F942F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.NET6", "HelloWorld.NET6\HelloWorld.NET6.csproj", "{0DAB06FF-B748-4A58-A563-BCF833E9D562}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld.NET6", "HelloWorld.NET6\HelloWorld.NET6.csproj", "{0DAB06FF-B748-4A58-A563-BCF833E9D562}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\InputOutput.csproj", "{ED43F613-90FB-4298-923A-A3F3FBB6268E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputOutput", "InputOutput\InputOutput.csproj", "{ED43F613-90FB-4298-923A-A3F3FBB6268E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariablesAndDatatypes", "VariablesAndDatatypes\VariablesAndDatatypes.csproj", "{DCE979C7-C46D-484D-8012-5B1C12BF1D92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VariablesAndDatatypes", "VariablesAndDatatypes\VariablesAndDatatypes.csproj", "{DCE979C7-C46D-484D-8012-5B1C12BF1D92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathOerators", "MathOerators\MathOerators.csproj", "{97ED659B-4131-4D49-B11F-74FA67024D62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathOerators", "MathOerators\MathOerators.csproj", "{97ED659B-4131-4D49-B11F-74FA67024D62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalStatments", "ConditionalStatments\ConditionalStatments.csproj", "{18ED7B9D-C81C-448C-9473-6F7EEADCEB3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConditionalStatments", "ConditionalStatments\ConditionalStatments.csproj", "{18ED7B9D-C81C-448C-9473-6F7EEADCEB3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepetitionStatements", "RepetitionStatements\RepetitionStatements.csproj", "{24B80169-0FD9-47F3-842E-4A0295A2D735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepetitionStatements", "RepetitionStatements\RepetitionStatements.csproj", "{24B80169-0FD9-47F3-842E-4A0295A2D735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Methods", "Methods\Methods.csproj", "{EADA7633-97F3-4619-91B1-71BEC38AF5BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Methods", "Methods\Methods.csproj", "{EADA7633-97F3-4619-91B1-71BEC38AF5BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{C47F3750-6C80-412F-AF34-E1CA3A0312EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringManipulation", "StringManipulation\StringManipulation.csproj", "{C47F3750-6C80-412F-AF34-E1CA3A0312EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeManipulations", "DateTimeManipulations\DateTimeManipulations.csproj", "{7AF314C5-1379-49C5-A357-7A5C1942CAEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DateTimeManipulations", "DateTimeManipulations\DateTimeManipulations.csproj", "{7AF314C5-1379-49C5-A357-7A5C1942CAEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{C6301CED-EABE-4265-86E0-334F164A6AD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "ExceptionHandling\ExceptionHandling.csproj", "{C6301CED-EABE-4265-86E0-334F164A6AD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{50D6DD18-73E1-4FBE-BCB0-83C66FE4BB81}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{C6301CED-EABE-4265-86E0-334F164A6AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6301CED-EABE-4265-86E0-334F164A6AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6301CED-EABE-4265-86E0-334F164A6AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D6DD18-73E1-4FBE-BCB0-83C66FE4BB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D6DD18-73E1-4FBE-BCB0-83C66FE4BB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D6DD18-73E1-4FBE-BCB0-83C66FE4BB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D6DD18-73E1-4FBE-BCB0-83C66FE4BB81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
