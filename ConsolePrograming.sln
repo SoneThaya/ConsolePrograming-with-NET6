@@ -27,7 +27,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionHandling", "Except
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{50D6DD18-73E1-4FBE-BCB0-83C66FE4BB81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListCollections", "ListCollections\ListCollections.csproj", "{FED7A8D1-20AD-44CF-8CF2-9DB7999E0498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListCollections", "ListCollections\ListCollections.csproj", "{FED7A8D1-20AD-44CF-8CF2-9DB7999E0498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAndObjects", "ClassesAndObjects\ClassesAndObjects.csproj", "{C0A057C0-B28C-4461-9B32-F2F98E1DB2FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{FED7A8D1-20AD-44CF-8CF2-9DB7999E0498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FED7A8D1-20AD-44CF-8CF2-9DB7999E0498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FED7A8D1-20AD-44CF-8CF2-9DB7999E0498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0A057C0-B28C-4461-9B32-F2F98E1DB2FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0A057C0-B28C-4461-9B32-F2F98E1DB2FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0A057C0-B28C-4461-9B32-F2F98E1DB2FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0A057C0-B28C-4461-9B32-F2F98E1DB2FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
