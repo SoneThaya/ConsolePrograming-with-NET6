@@ -30,6 +30,11 @@ public class Person
 
     public string getFullName()
     {
-        return FirstName + " " + LastName;
+        return $"{FirstName} {LastName}";
+    }
+
+    public string getFullName(string middleName)
+    {
+        return $"{FirstName} ${middleName} {LastName}";
     }
  }
